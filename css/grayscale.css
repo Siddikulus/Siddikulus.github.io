@@ -34,7 +34,7 @@ p {
 
 @media (min-width: 768px) {
   p {
-    font-size: 20px;
+    font-size: 20vw;
     line-height: 1.6;
     margin: 0 0 35px;
   }
